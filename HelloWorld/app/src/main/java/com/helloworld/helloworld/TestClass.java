@@ -6,4 +6,7 @@ package com.helloworld.helloworld;
 
 public class TestClass {
 
+    public void tets(){
+        
+    }
 }
